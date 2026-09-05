@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Звуковая кнопка</title>
+    <style>
+        /* Убираем отступы и растягиваем на весь экран */
+        html, body {
+            height: 100%;
+            margin: 0;
+            background-color: #1a1a1a; /* Темный фон для красоты */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Кнопка по центру -->
+    <iframe width="110" height="200" src="https://www.myinstants.com/instant/long-brain-fart-60967/embed/" frameborder="0" scrolling="no"></iframe>
+
+</body>
+</html>
